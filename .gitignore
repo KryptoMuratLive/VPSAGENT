@@ -24,3 +24,12 @@ logs/
 
 # Backups
 .backup/
+
+.venv/
+__pycache__/
+logs/
+state/
+.backup/
+*.log
+.openai_key
+agent_wallet.json
