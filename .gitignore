@@ -24,3 +24,20 @@ logs/
 
 # Backups
 .backup/
+
+# === SECRETS ===
+.openai_key
+*.env
+.env
+**/*key*
+**/*token*
+**/*secret*
+
+# === PYTHON ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === LOGS / CACHE ===
+*.log
