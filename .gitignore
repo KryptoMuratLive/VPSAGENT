@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+
+# Secrets
+state/
+*.key
+*.secret
+*.env
+token.txt
+
+# Logs
+logs/
+*.log
+
+# System
+.DS_Store
+
+# Backups
+.backup/
