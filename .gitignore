@@ -27,9 +27,9 @@ logs/
 
 .venv/
 __pycache__/
+.backup/
 logs/
 state/
-.backup/
-*.log
 .openai_key
-agent_wallet.json
+*.log
+*.pyc
